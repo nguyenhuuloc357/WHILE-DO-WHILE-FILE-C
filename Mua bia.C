@@ -10,6 +10,10 @@ while(vo >= 3){
     //Tính số chai bia đổi bằng vỏ
     //Cập nhật vỏ 
 }
+Input
+138
+Output 
+5
 
 #include<stdio.h>
 #include<math.h>
