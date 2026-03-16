@@ -14,7 +14,7 @@ Input
 138
 Output 
 5
-
+có file giải tay cho ai cần
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
