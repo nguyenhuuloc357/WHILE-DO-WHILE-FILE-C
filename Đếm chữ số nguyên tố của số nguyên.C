@@ -10,7 +10,7 @@ typedef long long ll;
 typedef float f;
 typedef double d;
 int main(){
-ll n;//đồng xu
+ll n;
 scanf("%lld",&n);
 int s=0;
 while(n!=0){
