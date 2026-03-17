@@ -13,7 +13,7 @@ typedef long long ll;
 typedef float f;
 typedef double d;
 int main(){
-int n;//đồng xu
+int n;
 scanf("%d",&n);
 if(n==1){
 printf("-1\n");
