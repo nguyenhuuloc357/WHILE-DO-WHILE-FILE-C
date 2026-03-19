@@ -1,6 +1,6 @@
 Nhập vào n, tính tổng các chữ số của n, và in ra kết quả
 Input 
-12341
+12341=1+2+3+4+1=11
 Output 
 Copy
 11
